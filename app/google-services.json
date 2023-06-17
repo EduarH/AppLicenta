@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "450194024856",
+    "project_id": "buddy-a5852",
+    "storage_bucket": "buddy-a5852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450194024856:android:b5815c27c3b3b5391463ed",
+        "android_client_info": {
+          "package_name": "com.example.new_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450194024856-o3bgoshbv1o3std3e8gn4oi8g90vna0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFy_RfUi2zAnDnOT4z512Eg4sHt83AWp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450194024856-o3bgoshbv1o3std3e8gn4oi8g90vna0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450194024856:android:b8fd01dc19e585401463ed",
+        "android_client_info": {
+          "package_name": "org.gradle.samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450194024856-o3bgoshbv1o3std3e8gn4oi8g90vna0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFy_RfUi2zAnDnOT4z512Eg4sHt83AWp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450194024856-o3bgoshbv1o3std3e8gn4oi8g90vna0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

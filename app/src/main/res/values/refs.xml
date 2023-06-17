@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cio_ic_jcb" />
+    <drawable name="ic_discover" />
+    <drawable name="ic_mastercard" />
+    <drawable name="ic_amex" />
+</resources>
